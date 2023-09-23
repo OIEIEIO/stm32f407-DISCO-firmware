@@ -1,0 +1,18 @@
+Project: RCC
+Converter: Atollic TrueSTUDIO project converter
+Date: 20230920
+
+Warning: Failed to find matching mcu for null
+Unknown value type "" for id com.atollic.truestudio.common_options.target.endianess on tool com.atollic.truestudio.exe.debug.toolchain.as
+Warning: MCU STM32F207IG matched multiple possible MCUs: [STM32F207IGHx, STM32F207IGTx]
+Option com.atollic.truestudio.common_options.target.instr_set is no longer supported
+Unknown value type "" for id com.atollic.truestudio.common_options.target.endianess on tool com.atollic.truestudio.exe.debug.toolchain.gcc
+Option com.atollic.truestudio.common_options.target.instr_set is no longer supported
+Unknown value type "" for id com.atollic.truestudio.common_options.target.endianess on tool com.atollic.truestudio.exe.debug.toolchain.ld
+Option com.atollic.truestudio.common_options.target.instr_set is no longer supported
+Unknown value type "" for id com.atollic.truestudio.common_options.target.endianess on tool com.atollic.truestudio.exe.debug.toolchain.gpp
+Unknown value type "" for id com.atollic.truestudio.gpp.optimization.fno_rtti on tool com.atollic.truestudio.exe.debug.toolchain.gpp
+Unknown value type "" for id com.atollic.truestudio.gpp.optimization.fno_exceptions on tool com.atollic.truestudio.exe.debug.toolchain.gpp
+Option com.atollic.truestudio.common_options.target.instr_set is no longer supported
+Unknown value type "" for id com.atollic.truestudio.common_options.target.endianess on tool com.atollic.truestudio.exe.debug.toolchain.ldcc
+Option com.atollic.truestudio.common_options.target.instr_set is no longer supported
